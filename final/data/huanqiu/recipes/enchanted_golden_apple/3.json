@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+        "item": "minecraft:golden_apple"
+    },
+    "result": "minecraft:enchanted_golden_apple",
+    "experience": 10,
+    "cookingtime": 7200
+}

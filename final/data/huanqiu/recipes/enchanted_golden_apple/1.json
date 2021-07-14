@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OOO",
+        "OHO",
+        "OQO"
+    ],
+    "key": {
+        "Q": {
+            "item": "minecraft:gold_block"
+        },
+        "H": {
+            "item": "minecraft:apple"
+        },
+        "O": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:enchanted_golden_apple",
+        "count": 1
+    }
+}

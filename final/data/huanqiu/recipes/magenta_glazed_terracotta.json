@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OOO",
+        "OHO",
+        "OOO"
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:rail"
+        },
+        "O": {
+            "item": "minecraft:terracotta"
+        }
+    },
+    "result": {
+        "item": "minecraft:magenta_glazed_terracotta",
+        "count": 8
+    }
+}

@@ -1,0 +1,1 @@
+function huanqiu:fast_magenta_glazed_terracotta/main

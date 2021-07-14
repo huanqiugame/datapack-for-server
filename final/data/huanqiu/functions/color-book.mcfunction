@@ -1,0 +1,1 @@
+give @a minecraft:written_book{"pages":['{"text":"§nMinecraft Formatting\\n\\n§r§00 §11 §22 §33\\n§44 §55 §66 §77\\n§88 §99 §aa §bb\\n§cc §dd §ee §ff\\n\\n§r§0k §kMinecraft§r\\nl §lMinecraft§r\\nm §mMinecraft§r\\nn §nMinecraft§r\\no §oMinecraft§r\\nr §rMinecraft"}'],"title":"调色书","author":"Server"}
