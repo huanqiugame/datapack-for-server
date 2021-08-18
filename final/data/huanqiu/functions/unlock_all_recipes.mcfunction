@@ -4,8 +4,6 @@ recipe give @a huanqiu:enchanted_golden_apple/3
 recipe give @a huanqiu:enchanted_golden_apple/4
 recipe give @a huanqiu:leather/1
 recipe give @a huanqiu:leather/2
-recipe give @a huanqiu:leather/3
-recipe give @a huanqiu:leather/4
 recipe give @a huanqiu:stripped_log/acacia
 recipe give @a huanqiu:stripped_log/birch
 recipe give @a huanqiu:stripped_log/scrimson
