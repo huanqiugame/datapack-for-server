@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "tag": "huanqiu:wooden_tools"
+    },
+    "addition": {
+        "item": "minecraft:cobblestone"
+    },
+    "result": {
+        "tag": "huanqiu:stone_tools"
+    }
+}
